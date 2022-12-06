@@ -41,7 +41,7 @@ class RoomProvider extends Component {
         maxPrice,
         maxSize,
       });
-      console.log(rooms);
+      // console.log(rooms);
     } catch (error) {
       console.log(error);
     }
